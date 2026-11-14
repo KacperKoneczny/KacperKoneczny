@@ -2,4 +2,4 @@
 
 I'm a student studying the **T-Level in Digital Software Development**, and I'm working towards a career in software development.
 
-Currently learning: [e.g. Python, JavaScript, HTML/CSS]
+Currently learning: Pythn, Javascript, HTML, CSS
